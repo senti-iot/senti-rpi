@@ -1,2 +1,2 @@
-# senti-rpi
-Senti RPI Core Modules
+# Senti RPI
+Senti Raspberry Pi (RPI) Core Modules
