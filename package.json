@@ -1,6 +1,7 @@
 {
   "name": "senti-rpi",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "deprecated": false,
   "description": "Senti Raspberry Pi (RPI) Core Modules",
   "main": "index.js",
   "scripts": {},
