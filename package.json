@@ -1,0 +1,30 @@
+{
+  "name": "senti-rpi",
+  "version": "0.0.1",
+  "description": "Senti Raspberry Pi (RPI) Core Modules",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senti-platform/senti-rpi.git"
+  },
+  "keywords": [
+    "Senti",
+    "Senti.Cloud",
+    "RPI",
+    "senti-rpi",
+    "Raspberry",
+    "Pi",
+    "Senti-Wi"
+  ],
+  "author": "Christian Broberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senti-platform/senti-rpi/issues"
+  },
+  "homepage": "https://github.com/senti-platform/senti-rpi#readme",
+  "dependencies": {
+    "detect-rpi": "^1.3.0",
+    "rpi-version": "^1.4.1"
+  }
+}

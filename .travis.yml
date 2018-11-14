@@ -1,0 +1,17 @@
+sudo: false
+language: node_js
+node_js:
+- stable
+branches:
+  only:
+  - master
+deploy:
+  skip_cleanup: true
+  provider: npm
+  email: cb@webhouse.dk
+  api_key: "$NPM_TOKEN"
+  on:
+    repo: senti-platform/senti-rpi
+notifications:
+  email: false
+  slack: "webhouseteam:82qu1PX5R5wkYNCW5x6fVlhu"
