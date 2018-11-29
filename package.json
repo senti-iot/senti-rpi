@@ -1,6 +1,6 @@
 {
   "name": "senti-rpi",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "deprecated": false,
   "description": "Senti Raspberry Pi (RPI) Core Modules",
   "main": "index.js",
@@ -18,7 +18,11 @@
     "Pi",
     "Senti-Wi"
   ],
-  "author": "Christian Broberg",
+  "author": {
+	"name": "Christian Broberg",
+	"email": "apisupport@senti.cloud",
+	"url": "https://senti.cloud/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/senti-platform/senti-rpi/issues"
